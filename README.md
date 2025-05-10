@@ -9,7 +9,7 @@ Welcome to the **Script Repository**! This repository contains a collection of u
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/script-repo.git
+    git clone https://github.com/piotrdylag/Script.git
     ```
 2. Navigate to the desired script folder (`PowerShell` or `Bash`).
 3. Follow the instructions in the script comments to execute.
